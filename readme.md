@@ -9,5 +9,5 @@ For detailed information, please refer to:
 # introduction_video #
 
 <video width="320" height="240" controls>
-<source src="./introduction_video/introduction.mp4" type="video/mp4">
+<source src="https://www.bilibili.com/video/BV186MZzSERC/?spm_id_from=333.1007.tianma.10-1-29.click&vd_source=3b6e9d5090caeed07f2e257285de8091" type="video/mp4">
 </video>
