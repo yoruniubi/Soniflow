@@ -1,3 +1,5 @@
+![logo](./logo.png)
+
 # Soniflow
 
 This project provides a desktop application for video search and download, vocal separation, and audio editing.
