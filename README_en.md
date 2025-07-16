@@ -43,7 +43,12 @@ First of all, clone this project:
 ```bash
 git clone https://github.com/yoruniubi/Soniflow.git
 ```
+First, please download the pretrained_models from the releases section and place them in the same directory as Gui.py.
 
+Next, create a folder named ffmpeg. Download the FFmpeg full build version from the following link:
+Download link: https://www.gyan.dev/ffmpeg/builds/
+
+Finally, copy all the .exe files from the downloaded bin folder into the ffmpeg folder you just created.
 For the backend:
 
 It is recommended to use Anaconda to create the virtual environment:
@@ -80,3 +85,7 @@ Once the application is running, you can navigate through the different features
 *   **Vocal Separation**: Separate vocals from instrumental tracks.
 *   **Audio Editing**: Load audio, perform edits, and export the results.
 *   **Settings**: Customize application preferences.
+
+## Quick start
+
+Download the setup program from the release page directly.
