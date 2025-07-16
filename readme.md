@@ -8,4 +8,4 @@ For detailed information, please refer to:
 
 # introduction_video #
 
-点击此处观看演示视频：[演示视频链接]('./introduction_video/introduction.mp4')
+点击此处观看演示视频：[演示视频链接]('introduction_video/introduction.mp4')
