@@ -37,12 +37,14 @@ Soniflow 提供以下主要功能：
     *   选择界面语言（简体中文、英文）。
 
 ## 开发环境搭建
-
 首先，克隆本项目：
 
 ```bash
 git clone https://github.com/yoruniubi/Soniflow.git
 ```
+
+然后，请先从release中下载pretrained_models，放到和Gui.py同一级目录下，然后再创建一个叫做ffmpeg的文件夹，下载ffmpeg full build 版本
+下载链接：https://www.gyan.dev/ffmpeg/builds/，将bin文件里面的所有exe文件复制到ffmpeg文件夹下
 
 后端部分：
 
