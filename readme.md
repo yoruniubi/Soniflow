@@ -8,6 +8,14 @@ For detailed information, please refer to:
 *   [English README](README_en.md)
 *   [中文 README](README_zh.md)
 
-# introduction_video #
+# Images of interface #
 
-introduction_video：[link_to_video](https://www.bilibili.com/video/BV1Jfu8zoEUk/?vd_source=3b6e9d5090caeed07f2e257285de8091)
+![image_1](./images/1.png)
+
+![image_2](./images/2.png)
+
+![image_3](./images/3.png)
+
+![image_4](./images/4.png)
+
+![image_5](./images/5.png)
